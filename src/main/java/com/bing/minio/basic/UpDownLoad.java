@@ -13,7 +13,7 @@ import java.io.InputStream;
  */
 public class UpDownLoad {
     public static void main(String[] args) throws Exception {
-        download();
+        upload();
     }
 
     // 上传文件
